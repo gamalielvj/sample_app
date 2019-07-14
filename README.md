@@ -5,6 +5,11 @@ This is the sample application for
 Learn Web Development with Rails*](https://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).
 
+# Versions
+Rails   5.1.6
+Ruby    2.6.3
+
+
 ## License
 
 All source code in the [Ruby on Rails Tutorial](https://www.railstutorial.org/)
